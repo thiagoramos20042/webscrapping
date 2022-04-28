@@ -8,5 +8,5 @@ Hennes & Mauritz (também conhecida como H&M) é uma empresa multinacional sueca
 
 1 - Colocar em prática o conhecimento da técnica de webscrapping utililizando as bibliotecas BeautifulSoup, Requests.  
 2-  Coletar todos os dados id do produto, nome do produto, preço do produto. 
-3-  O produto analisado foi da categoria masculina o item foi calça Jeans 
+3-  O produto analisado foi da categoria masculina o item foi calça Jeans. 
 
