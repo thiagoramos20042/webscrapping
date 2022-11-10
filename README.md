@@ -3,6 +3,7 @@
 **O Problema de negócio**
 
 **A empresa Star Jeans**!
+
 Eduardo e Marcelo são dois brasileiros, amigos e sócios de empreendimento. Depois de vários
 negócio bem sucedidos, eles estão planejando entrar no mercado de moda dos USA como um
 modelo de negócio do tipo E-commerce.
