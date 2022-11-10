@@ -12,6 +12,7 @@ baixo e escalar a medida que forem conseguindo clientes.
 Porém, mesmo com o produto de entrada e a audiência definidos, os dois sócios não tem experiência
 nesse mercado de moda e portanto não sabem definir coisas básicas como preço, o tipo de calça e
 o material para a fabricação de cada peça.
+
 As principais concorrentes da empresa Start Jeans são as americadas H&M e Macys.
 
 
